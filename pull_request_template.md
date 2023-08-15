@@ -2,7 +2,7 @@ Please include a summary of the change. List any dependencies that are required 
 
 ## JIRA Link
 
-https://lftechnology.atlassian.net/browse/ASP-
+-
 
 ## Summary of Changes
 
